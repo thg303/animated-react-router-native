@@ -1,0 +1,7 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+.expo/
+node_modules/
+.idea/
+
